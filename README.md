@@ -5,5 +5,4 @@ Microservicio encargado de registrar eventos y acciones realizadas dentro del si
 - Validation
 - Lombok
 - Spring Data JPA
-- OpenFeign
 - MySQL Driver
